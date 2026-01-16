@@ -2,17 +2,17 @@
 
 ## Architecture
 
-* 📂 **`.venv/`**
-* 📂 **`config/`**
-* 📂 **`data/`**
-    * 📥 `raw/`
-    * 🛠️ `staging/`
-    * ✨ `curated/`
-* 📂 **`jobs/`**
-* 📂 **`notebooks/`**
-* 📂 **`src/`**
-* 📄 **`pyproject.toml`**
-* 📄 **`uv.lock`**
+* **`.venv/`**
+* **`config/`**
+* **`data/`**
+    * `raw/`
+    * `staging/`
+    * `curated/`
+* **`jobs/`**
+* **`notebooks/`**
+* **`src/`**
+* **`pyproject.toml`**
+* **`uv.lock`**
 
 ##  Guide de Démarrage Rapide
 
